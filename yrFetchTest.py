@@ -149,8 +149,8 @@ if __name__ == "__main__":
 
                 sleep_duration = (expires_time - datetime.now(timezone.utc)).total_seconds()
                 if sleep_duration > 0:
-                    print(f"Sleeping for {int(sleep_duration)} seconds to respect API rate limits.")
-                    sleep(sleep_duration)
+                    print(f"Sleep for {int(sleep_duration)} seconds to respect API rate limits.")
+                    # sleep(sleep_duration) # Sleep function for running script standalone.
             except ValueError:
                 # If parsing fails, ignore sleeping
                 pass
