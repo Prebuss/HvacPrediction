@@ -86,8 +86,8 @@ while True:
     #set_room_target_temperature(750269, 2400, token)
 
     # Replace the 750269 with the room id from the get_homes_info output
-    time.sleep(10)
-    get_homes_info(token)
     #time.sleep(10)
+    get_homes_info(token)
+    time.sleep(10)
     #get_energy_info(token,2429797)
     token = refresh_token()
