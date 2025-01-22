@@ -77,7 +77,7 @@ def get_homes_info(token):
 token = get_token()
 
 while True:
-    time.sleep(10)
+    #time.sleep(10)
     # Change the temperature to 24 C in the room with an Id of 735362
     #set_room_target_temperature(735362, 2400, token)
 
