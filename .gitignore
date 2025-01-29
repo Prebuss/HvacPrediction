@@ -1,6 +1,10 @@
 yrAuto.sh
 YrAutoTest.sh
 automator.sh
+<<<<<<< HEAD
 Hello.sh
 PushTest.sh
 yrAutoTest.sh
+=======
+log.txt
+>>>>>>> 6e55c80 (Added temperature data 28.01 29.01)
