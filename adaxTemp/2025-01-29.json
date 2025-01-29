@@ -1954,5 +1954,187 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2025-01-29 11:05:03",
+    "rooms": [
+      {
+        "id": 1200221,
+        "name": "Meeting room 4th floor",
+        "targetTemperature": 21.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429794,
+            "name": "Meeting room 4th West",
+            "energy": 130,
+            "energyTime": "2025-01-29 10:05:03"
+          },
+          {
+            "id": 2429797,
+            "name": "Meeting room 4th North West",
+            "energy": 96,
+            "energyTime": "2025-01-29 10:05:03"
+          },
+          {
+            "id": 2429799,
+            "name": "Meeting room 4th North",
+            "energy": 24,
+            "energyTime": "2025-01-29 10:05:03"
+          }
+        ]
+      },
+      {
+        "id": 1200228,
+        "name": "Canteen",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.92,
+        "devices": [
+          {
+            "id": 2429803,
+            "name": "Canteen Left",
+            "energy": 35,
+            "energyTime": "2025-01-29 10:05:03"
+          },
+          {
+            "id": 2429806,
+            "name": "Canteen Middle",
+            "energy": 3,
+            "energyTime": "2025-01-29 10:05:03"
+          },
+          {
+            "id": 2429808,
+            "name": "Canteen Right",
+            "energy": 0,
+            "energyTime": "2025-01-29 10:05:03"
+          }
+        ]
+      },
+      {
+        "id": 1200231,
+        "name": "Office 409",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2429813,
+            "name": "Heater 409",
+            "energy": 56,
+            "energyTime": "2025-01-29 10:05:03"
+          }
+        ]
+      },
+      {
+        "id": 1200237,
+        "name": "Office 408",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.27,
+        "devices": [
+          {
+            "id": 2429826,
+            "name": "Heater 408",
+            "energy": 0,
+            "energyTime": "2025-01-29 10:05:03"
+          }
+        ]
+      },
+      {
+        "id": 1200241,
+        "name": "Office 407",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.48,
+        "devices": [
+          {
+            "id": 2429839,
+            "name": "Heater 407",
+            "energy": 6,
+            "energyTime": "2025-01-29 10:05:03"
+          }
+        ]
+      },
+      {
+        "id": 1200242,
+        "name": "Office 406",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.34,
+        "devices": [
+          {
+            "id": 2429842,
+            "name": "Heater 406",
+            "energy": 25,
+            "energyTime": "2025-01-29 10:05:03"
+          }
+        ]
+      },
+      {
+        "id": 1200247,
+        "name": "Office 405",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.41,
+        "devices": [
+          {
+            "id": 2429844,
+            "name": "Heater 405",
+            "energy": 14,
+            "energyTime": "2025-01-29 10:05:03"
+          }
+        ]
+      },
+      {
+        "id": 1200248,
+        "name": "Office 404",
+        "targetTemperature": 23.0,
+        "currentTemperature": 22.41,
+        "devices": [
+          {
+            "id": 2429845,
+            "name": "Heater 404",
+            "energy": 301,
+            "energyTime": "2025-01-29 10:05:03"
+          }
+        ]
+      },
+      {
+        "id": 1200249,
+        "name": "Office Hallway 4th floor",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.98,
+        "devices": []
+      },
+      {
+        "id": 1200250,
+        "name": "Office 401",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429849,
+            "name": "Heater 401",
+            "energy": 0,
+            "energyTime": "2025-01-29 10:05:03"
+          }
+        ]
+      },
+      {
+        "id": 1200321,
+        "name": "Office 310",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.3,
+        "devices": [
+          {
+            "id": 2430000,
+            "name": "Heater 310 Right",
+            "energy": 83,
+            "energyTime": "2025-01-29 10:05:03"
+          },
+          {
+            "id": 2430008,
+            "name": "Heater 310 Left",
+            "energy": 33,
+            "energyTime": "2025-01-29 10:05:03"
+          }
+        ]
+      }
+    ]
   }
 ]
