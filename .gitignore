@@ -5,7 +5,12 @@ automator.sh
 Hello.sh
 PushTest.sh
 yrAutoTest.sh
+ventAuto.sh
 =======
 log.txt
 >>>>>>> 6e55c80 (Added temperature data 28.01 29.01)
 config.py
+config.ini
+ventlog.txt
+adaxlog.txt
+parameters.json
