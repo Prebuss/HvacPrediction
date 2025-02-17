@@ -17,12 +17,13 @@ def main():
     try:
         # 3xXXXX => input registers => function code = 4 in minimalmodbus
         componentName                = instrument.read_register(0,   0, 4)   # 3x0001 
-        co2_sensor_data              = instrument.read_register(267, 0, 4)   # 3x0267
+        co2_sensor_data              = instrument.read_register(267, 0, 4, signed=False)   # 3x0267
+        co2_sensor_data2             = instrument.read_register(267, 0, 4, signed=True)   # 3x0267 Signed
         new_co2                      = instrument.read_register(266, 0, 4)   # 3x0267 But zero adjusted
         nothing                      = instrument.read_register(62,  0, 4)   # 3x0062 Should be zero
         SFP                          = instrument.read_register(63,  0, 4)   # 3x0063 Specific Fan Power
         SA_temp                      = instrument.read_register(64,  0, 4)   # 3x0064 Supply Air temperature
-        outdoor_temperature          = instrument.read_register(73,  2, 4, True)   # 3x0073
+        outdoor_temperature          = instrument.read_register(73,  2, 4, signed=True)   # 3x0073
         supply_air_flow_pressure     = instrument.read_register(30,  0, 4)   # 3x0030
         supply_air_flow              = instrument.read_register(6,   0, 4)   # 3x0006
         ahu_filter_pressure_level    = instrument.read_register(27,  0, 4)   # 3x0027
@@ -62,6 +63,7 @@ def main():
         # Print out results
         print("Component name:                  ", componentName)
         print("CO? sensor data:                 ", co2_sensor_data)
+        print("Signed CO2 sensor data:          ", co2_sensor_data2)
         print("Co2 sensor data:                 ", new_co2)
         print("This should be zero:             ", nothing)
         print("SFP:                             ", SFP)
