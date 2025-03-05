@@ -61,6 +61,10 @@ def fetch_modbus_data():
         data["operationMode"]                = instrument.read_register(84,  0, 4) # 3x0085
         data["heatExchangerRegulator"]       = instrument.read_register(90,  0, 4) # 3x0091
         data["RhxEfficiency"]                = instrument.read_register(105, 0, 4) # 3x0106
+
+        # Read holding registers using function code 3
+        data["setpointTemperatureSA"]        = instrument.read_register(40,  2, 3) # 4x0041
+        data["setpointTemperatureEA"]        = instrument.read_register(41,  2, 3) # 4x0042
     except Exception as e:
         data["modbus_error"] = f"Error reading Modbus registers: {e}"
     return data
