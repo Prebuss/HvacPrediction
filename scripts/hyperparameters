@@ -1,0 +1,45 @@
+Trial 32 Complete [00h 07m 52s]
+val_loss: 0.07113490253686905
+
+Best val_loss So Far: 0.06908533722162247
+Total elapsed time: 05h 06m 11s
+
+Search: Running Trial #33
+
+Value             |Best Value So Far |Hyperparameter
+LSTM              |LSTM              |rnn_type
+1                 |1                 |num_rnn_layers
+512               |512               |units_1
+0.2               |0.2               |dropout_1
+0                 |0                 |rec_dropout_1
+1e-05             |1e-05             |l2_reg
+True              |True              |use_spatial_dropout
+False             |False             |use_layernorm
+64                |64                |static_dense_units
+16                |16                |final_dense_units
+0.0001            |0.0001            |learning_rate
+32                |32                |units_2
+0.1               |0                 |dropout_2
+0                 |0                 |rec_dropout_2
+
+
+Best val_loss So Far: 0.0654633492231369
+Total elapsed time: 09h 02m 12s
+
+Search: Running Trial #55
+
+Value             |Best Value So Far |Hyperparameter
+LSTM              |LSTM              |rnn_type
+1                 |1                 |num_rnn_layers
+224               |416               |units_1
+0.2               |0.2               |dropout_1
+0                 |0                 |rec_dropout_1
+1e-05             |1e-05             |l2_reg
+True              |True              |use_spatial_dropout
+False             |False             |use_layernorm
+32                |32                |static_dense_units
+16                |16                |final_dense_units
+0.0001            |0.0001            |learning_rate
+64                |64                |units_2
+0                 |0                 |dropout_2
+0                 |0                 |rec_dropout_2

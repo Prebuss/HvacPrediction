@@ -1,0 +1,3446 @@
+[
+  {
+    "timestamp": "2025-01-28 10:05:05",
+    "rooms": [
+      {
+        "id": 1200221,
+        "name": "Meeting room 4th floor",
+        "targetTemperature": 21.0,
+        "currentTemperature": 20.95,
+        "devices": [
+          {
+            "id": 2429794,
+            "name": "Meeting room 4th West",
+            "energy": 160,
+            "energyTime": "2025-01-28 09:05:05"
+          },
+          {
+            "id": 2429797,
+            "name": "Meeting room 4th North West",
+            "energy": 114,
+            "energyTime": "2025-01-28 09:05:05"
+          },
+          {
+            "id": 2429799,
+            "name": "Meeting room 4th North",
+            "energy": 41,
+            "energyTime": "2025-01-28 09:05:05"
+          }
+        ]
+      },
+      {
+        "id": 1200228,
+        "name": "Canteen",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.63,
+        "devices": [
+          {
+            "id": 2429803,
+            "name": "Canteen Left",
+            "energy": 49,
+            "energyTime": "2025-01-28 09:05:05"
+          },
+          {
+            "id": 2429806,
+            "name": "Canteen Middle",
+            "energy": 24,
+            "energyTime": "2025-01-28 09:05:05"
+          },
+          {
+            "id": 2429808,
+            "name": "Canteen Right",
+            "energy": 0,
+            "energyTime": "2025-01-28 09:05:05"
+          }
+        ]
+      },
+      {
+        "id": 1200231,
+        "name": "Office 409",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2429813,
+            "name": "Heater 409",
+            "energy": 76,
+            "energyTime": "2025-01-28 09:05:05"
+          }
+        ]
+      },
+      {
+        "id": 1200237,
+        "name": "Office 408",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.98,
+        "devices": [
+          {
+            "id": 2429826,
+            "name": "Heater 408",
+            "energy": 0,
+            "energyTime": "2025-01-28 09:05:05"
+          }
+        ]
+      },
+      {
+        "id": 1200241,
+        "name": "Office 407",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.62,
+        "devices": [
+          {
+            "id": 2429839,
+            "name": "Heater 407",
+            "energy": 1,
+            "energyTime": "2025-01-28 09:05:05"
+          }
+        ]
+      },
+      {
+        "id": 1200242,
+        "name": "Office 406",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.34,
+        "devices": [
+          {
+            "id": 2429842,
+            "name": "Heater 406",
+            "energy": 37,
+            "energyTime": "2025-01-28 09:05:05"
+          }
+        ]
+      },
+      {
+        "id": 1200247,
+        "name": "Office 405",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.41,
+        "devices": [
+          {
+            "id": 2429844,
+            "name": "Heater 405",
+            "energy": 31,
+            "energyTime": "2025-01-28 09:05:05"
+          }
+        ]
+      },
+      {
+        "id": 1200248,
+        "name": "Office 404",
+        "targetTemperature": 23.0,
+        "currentTemperature": 22.25,
+        "devices": [
+          {
+            "id": 2429845,
+            "name": "Heater 404",
+            "energy": 343,
+            "energyTime": "2025-01-28 09:05:05"
+          }
+        ]
+      },
+      {
+        "id": 1200249,
+        "name": "Office Hallway 4th floor",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.83,
+        "devices": []
+      },
+      {
+        "id": 1200250,
+        "name": "Office 401",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.05,
+        "devices": [
+          {
+            "id": 2429849,
+            "name": "Heater 401",
+            "energy": 0,
+            "energyTime": "2025-01-28 09:05:05"
+          }
+        ]
+      },
+      {
+        "id": 1200321,
+        "name": "Office 310",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.23,
+        "devices": [
+          {
+            "id": 2430000,
+            "name": "Heater 310 Right",
+            "energy": 101,
+            "energyTime": "2025-01-28 09:05:05"
+          },
+          {
+            "id": 2430008,
+            "name": "Heater 310 Left",
+            "energy": 44,
+            "energyTime": "2025-01-28 09:05:05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-01-28 11:12:52",
+    "rooms": [
+      {
+        "id": 1200221,
+        "name": "Meeting room 4th floor",
+        "targetTemperature": 21.0,
+        "currentTemperature": 21.25,
+        "devices": [
+          {
+            "id": 2429794,
+            "name": "Meeting room 4th West",
+            "energy": 8,
+            "energyTime": "2025-01-28 10:12:52"
+          },
+          {
+            "id": 2429797,
+            "name": "Meeting room 4th North West",
+            "energy": 2,
+            "energyTime": "2025-01-28 10:12:52"
+          },
+          {
+            "id": 2429799,
+            "name": "Meeting room 4th North",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:12:52"
+          }
+        ]
+      },
+      {
+        "id": 1200228,
+        "name": "Canteen",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.01,
+        "devices": [
+          {
+            "id": 2429803,
+            "name": "Canteen Left",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:12:52"
+          },
+          {
+            "id": 2429806,
+            "name": "Canteen Middle",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:12:52"
+          },
+          {
+            "id": 2429808,
+            "name": "Canteen Right",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:12:52"
+          }
+        ]
+      },
+      {
+        "id": 1200231,
+        "name": "Office 409",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2429813,
+            "name": "Heater 409",
+            "energy": 4,
+            "energyTime": "2025-01-28 10:12:52"
+          }
+        ]
+      },
+      {
+        "id": 1200237,
+        "name": "Office 408",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.12,
+        "devices": [
+          {
+            "id": 2429826,
+            "name": "Heater 408",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:12:52"
+          }
+        ]
+      },
+      {
+        "id": 1200241,
+        "name": "Office 407",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.69,
+        "devices": [
+          {
+            "id": 2429839,
+            "name": "Heater 407",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:12:52"
+          }
+        ]
+      },
+      {
+        "id": 1200242,
+        "name": "Office 406",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.41,
+        "devices": [
+          {
+            "id": 2429842,
+            "name": "Heater 406",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:12:52"
+          }
+        ]
+      },
+      {
+        "id": 1200247,
+        "name": "Office 405",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.48,
+        "devices": [
+          {
+            "id": 2429844,
+            "name": "Heater 405",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:12:52"
+          }
+        ]
+      },
+      {
+        "id": 1200248,
+        "name": "Office 404",
+        "targetTemperature": 23.0,
+        "currentTemperature": 22.56,
+        "devices": [
+          {
+            "id": 2429845,
+            "name": "Heater 404",
+            "energy": 19,
+            "energyTime": "2025-01-28 10:12:52"
+          }
+        ]
+      },
+      {
+        "id": 1200249,
+        "name": "Office Hallway 4th floor",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.9,
+        "devices": []
+      },
+      {
+        "id": 1200250,
+        "name": "Office 401",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429849,
+            "name": "Heater 401",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:12:52"
+          }
+        ]
+      },
+      {
+        "id": 1200321,
+        "name": "Office 310",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.23,
+        "devices": [
+          {
+            "id": 2430000,
+            "name": "Heater 310 Right",
+            "energy": 3,
+            "energyTime": "2025-01-28 10:12:52"
+          },
+          {
+            "id": 2430008,
+            "name": "Heater 310 Left",
+            "energy": 2,
+            "energyTime": "2025-01-28 10:12:52"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-01-28 11:28:13",
+    "rooms": [
+      {
+        "id": 1200221,
+        "name": "Meeting room 4th floor",
+        "targetTemperature": 21.0,
+        "currentTemperature": 21.15,
+        "devices": [
+          {
+            "id": 2429794,
+            "name": "Meeting room 4th West",
+            "energy": 48,
+            "energyTime": "2025-01-28 10:28:13"
+          },
+          {
+            "id": 2429797,
+            "name": "Meeting room 4th North West",
+            "energy": 35,
+            "energyTime": "2025-01-28 10:28:13"
+          },
+          {
+            "id": 2429799,
+            "name": "Meeting room 4th North",
+            "energy": 8,
+            "energyTime": "2025-01-28 10:28:13"
+          }
+        ]
+      },
+      {
+        "id": 1200228,
+        "name": "Canteen",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.96,
+        "devices": [
+          {
+            "id": 2429803,
+            "name": "Canteen Left",
+            "energy": 13,
+            "energyTime": "2025-01-28 10:28:13"
+          },
+          {
+            "id": 2429806,
+            "name": "Canteen Middle",
+            "energy": 8,
+            "energyTime": "2025-01-28 10:28:13"
+          },
+          {
+            "id": 2429808,
+            "name": "Canteen Right",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:28:13"
+          }
+        ]
+      },
+      {
+        "id": 1200231,
+        "name": "Office 409",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2429813,
+            "name": "Heater 409",
+            "energy": 23,
+            "energyTime": "2025-01-28 10:28:13"
+          }
+        ]
+      },
+      {
+        "id": 1200237,
+        "name": "Office 408",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.12,
+        "devices": [
+          {
+            "id": 2429826,
+            "name": "Heater 408",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:28:13"
+          }
+        ]
+      },
+      {
+        "id": 1200241,
+        "name": "Office 407",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.76,
+        "devices": [
+          {
+            "id": 2429839,
+            "name": "Heater 407",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:28:13"
+          }
+        ]
+      },
+      {
+        "id": 1200242,
+        "name": "Office 406",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.34,
+        "devices": [
+          {
+            "id": 2429842,
+            "name": "Heater 406",
+            "energy": 11,
+            "energyTime": "2025-01-28 10:28:13"
+          }
+        ]
+      },
+      {
+        "id": 1200247,
+        "name": "Office 405",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.41,
+        "devices": [
+          {
+            "id": 2429844,
+            "name": "Heater 405",
+            "energy": 6,
+            "energyTime": "2025-01-28 10:28:13"
+          }
+        ]
+      },
+      {
+        "id": 1200248,
+        "name": "Office 404",
+        "targetTemperature": 23.0,
+        "currentTemperature": 22.48,
+        "devices": [
+          {
+            "id": 2429845,
+            "name": "Heater 404",
+            "energy": 99,
+            "energyTime": "2025-01-28 10:28:13"
+          }
+        ]
+      },
+      {
+        "id": 1200249,
+        "name": "Office Hallway 4th floor",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.9,
+        "devices": []
+      },
+      {
+        "id": 1200250,
+        "name": "Office 401",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.12,
+        "devices": [
+          {
+            "id": 2429849,
+            "name": "Heater 401",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:28:13"
+          }
+        ]
+      },
+      {
+        "id": 1200321,
+        "name": "Office 310",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.3,
+        "devices": [
+          {
+            "id": 2430000,
+            "name": "Heater 310 Right",
+            "energy": 29,
+            "energyTime": "2025-01-28 10:28:13"
+          },
+          {
+            "id": 2430008,
+            "name": "Heater 310 Left",
+            "energy": 11,
+            "energyTime": "2025-01-28 10:28:13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-01-28 11:31:06",
+    "rooms": [
+      {
+        "id": 1200221,
+        "name": "Meeting room 4th floor",
+        "targetTemperature": 21.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429794,
+            "name": "Meeting room 4th West",
+            "energy": 58,
+            "energyTime": "2025-01-28 10:31:06"
+          },
+          {
+            "id": 2429797,
+            "name": "Meeting room 4th North West",
+            "energy": 41,
+            "energyTime": "2025-01-28 10:31:06"
+          },
+          {
+            "id": 2429799,
+            "name": "Meeting room 4th North",
+            "energy": 10,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      },
+      {
+        "id": 1200228,
+        "name": "Canteen",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.01,
+        "devices": [
+          {
+            "id": 2429803,
+            "name": "Canteen Left",
+            "energy": 14,
+            "energyTime": "2025-01-28 10:31:06"
+          },
+          {
+            "id": 2429806,
+            "name": "Canteen Middle",
+            "energy": 8,
+            "energyTime": "2025-01-28 10:31:06"
+          },
+          {
+            "id": 2429808,
+            "name": "Canteen Right",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      },
+      {
+        "id": 1200231,
+        "name": "Office 409",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2429813,
+            "name": "Heater 409",
+            "energy": 25,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      },
+      {
+        "id": 1200237,
+        "name": "Office 408",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.05,
+        "devices": [
+          {
+            "id": 2429826,
+            "name": "Heater 408",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      },
+      {
+        "id": 1200241,
+        "name": "Office 407",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.69,
+        "devices": [
+          {
+            "id": 2429839,
+            "name": "Heater 407",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      },
+      {
+        "id": 1200242,
+        "name": "Office 406",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.41,
+        "devices": [
+          {
+            "id": 2429842,
+            "name": "Heater 406",
+            "energy": 12,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      },
+      {
+        "id": 1200247,
+        "name": "Office 405",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.41,
+        "devices": [
+          {
+            "id": 2429844,
+            "name": "Heater 405",
+            "energy": 7,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      },
+      {
+        "id": 1200248,
+        "name": "Office 404",
+        "targetTemperature": 23.0,
+        "currentTemperature": 22.48,
+        "devices": [
+          {
+            "id": 2429845,
+            "name": "Heater 404",
+            "energy": 109,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      },
+      {
+        "id": 1200249,
+        "name": "Office Hallway 4th floor",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.9,
+        "devices": []
+      },
+      {
+        "id": 1200250,
+        "name": "Office 401",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429849,
+            "name": "Heater 401",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      },
+      {
+        "id": 1200321,
+        "name": "Office 310",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.23,
+        "devices": [
+          {
+            "id": 2430000,
+            "name": "Heater 310 Right",
+            "energy": 31,
+            "energyTime": "2025-01-28 10:31:06"
+          },
+          {
+            "id": 2430008,
+            "name": "Heater 310 Left",
+            "energy": 15,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-01-28 11:32:10",
+    "rooms": [
+      {
+        "id": 1200221,
+        "name": "Meeting room 4th floor",
+        "targetTemperature": 21.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429794,
+            "name": "Meeting room 4th West",
+            "energy": 58,
+            "energyTime": "2025-01-28 10:31:06"
+          },
+          {
+            "id": 2429797,
+            "name": "Meeting room 4th North West",
+            "energy": 41,
+            "energyTime": "2025-01-28 10:31:06"
+          },
+          {
+            "id": 2429799,
+            "name": "Meeting room 4th North",
+            "energy": 10,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      },
+      {
+        "id": 1200228,
+        "name": "Canteen",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.01,
+        "devices": [
+          {
+            "id": 2429803,
+            "name": "Canteen Left",
+            "energy": 14,
+            "energyTime": "2025-01-28 10:31:06"
+          },
+          {
+            "id": 2429806,
+            "name": "Canteen Middle",
+            "energy": 8,
+            "energyTime": "2025-01-28 10:31:06"
+          },
+          {
+            "id": 2429808,
+            "name": "Canteen Right",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      },
+      {
+        "id": 1200231,
+        "name": "Office 409",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2429813,
+            "name": "Heater 409",
+            "energy": 25,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      },
+      {
+        "id": 1200237,
+        "name": "Office 408",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.05,
+        "devices": [
+          {
+            "id": 2429826,
+            "name": "Heater 408",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      },
+      {
+        "id": 1200241,
+        "name": "Office 407",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.69,
+        "devices": [
+          {
+            "id": 2429839,
+            "name": "Heater 407",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      },
+      {
+        "id": 1200242,
+        "name": "Office 406",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.41,
+        "devices": [
+          {
+            "id": 2429842,
+            "name": "Heater 406",
+            "energy": 12,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      },
+      {
+        "id": 1200247,
+        "name": "Office 405",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.41,
+        "devices": [
+          {
+            "id": 2429844,
+            "name": "Heater 405",
+            "energy": 7,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      },
+      {
+        "id": 1200248,
+        "name": "Office 404",
+        "targetTemperature": 23.0,
+        "currentTemperature": 22.48,
+        "devices": [
+          {
+            "id": 2429845,
+            "name": "Heater 404",
+            "energy": 109,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      },
+      {
+        "id": 1200249,
+        "name": "Office Hallway 4th floor",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.9,
+        "devices": []
+      },
+      {
+        "id": 1200250,
+        "name": "Office 401",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429849,
+            "name": "Heater 401",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      },
+      {
+        "id": 1200321,
+        "name": "Office 310",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.23,
+        "devices": [
+          {
+            "id": 2430000,
+            "name": "Heater 310 Right",
+            "energy": 31,
+            "energyTime": "2025-01-28 10:31:06"
+          },
+          {
+            "id": 2430008,
+            "name": "Heater 310 Left",
+            "energy": 15,
+            "energyTime": "2025-01-28 10:31:06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-01-28 11:34:10",
+    "rooms": [
+      {
+        "id": 1200221,
+        "name": "Meeting room 4th floor",
+        "targetTemperature": 21.0,
+        "currentTemperature": 21.24,
+        "devices": [
+          {
+            "id": 2429794,
+            "name": "Meeting room 4th West",
+            "energy": 63,
+            "energyTime": "2025-01-28 10:34:10"
+          },
+          {
+            "id": 2429797,
+            "name": "Meeting room 4th North West",
+            "energy": 43,
+            "energyTime": "2025-01-28 10:34:10"
+          },
+          {
+            "id": 2429799,
+            "name": "Meeting room 4th North",
+            "energy": 10,
+            "energyTime": "2025-01-28 10:34:10"
+          }
+        ]
+      },
+      {
+        "id": 1200228,
+        "name": "Canteen",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.08,
+        "devices": [
+          {
+            "id": 2429803,
+            "name": "Canteen Left",
+            "energy": 16,
+            "energyTime": "2025-01-28 10:34:10"
+          },
+          {
+            "id": 2429806,
+            "name": "Canteen Middle",
+            "energy": 8,
+            "energyTime": "2025-01-28 10:34:10"
+          },
+          {
+            "id": 2429808,
+            "name": "Canteen Right",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:34:10"
+          }
+        ]
+      },
+      {
+        "id": 1200231,
+        "name": "Office 409",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2429813,
+            "name": "Heater 409",
+            "energy": 27,
+            "energyTime": "2025-01-28 10:34:10"
+          }
+        ]
+      },
+      {
+        "id": 1200237,
+        "name": "Office 408",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429826,
+            "name": "Heater 408",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:34:10"
+          }
+        ]
+      },
+      {
+        "id": 1200241,
+        "name": "Office 407",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.69,
+        "devices": [
+          {
+            "id": 2429839,
+            "name": "Heater 407",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:34:10"
+          }
+        ]
+      },
+      {
+        "id": 1200242,
+        "name": "Office 406",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.34,
+        "devices": [
+          {
+            "id": 2429842,
+            "name": "Heater 406",
+            "energy": 14,
+            "energyTime": "2025-01-28 10:34:10"
+          }
+        ]
+      },
+      {
+        "id": 1200247,
+        "name": "Office 405",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.41,
+        "devices": [
+          {
+            "id": 2429844,
+            "name": "Heater 405",
+            "energy": 8,
+            "energyTime": "2025-01-28 10:34:10"
+          }
+        ]
+      },
+      {
+        "id": 1200248,
+        "name": "Office 404",
+        "targetTemperature": 23.0,
+        "currentTemperature": 22.56,
+        "devices": [
+          {
+            "id": 2429845,
+            "name": "Heater 404",
+            "energy": 127,
+            "energyTime": "2025-01-28 10:34:10"
+          }
+        ]
+      },
+      {
+        "id": 1200249,
+        "name": "Office Hallway 4th floor",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.9,
+        "devices": []
+      },
+      {
+        "id": 1200250,
+        "name": "Office 401",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.12,
+        "devices": [
+          {
+            "id": 2429849,
+            "name": "Heater 401",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:34:10"
+          }
+        ]
+      },
+      {
+        "id": 1200321,
+        "name": "Office 310",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.23,
+        "devices": [
+          {
+            "id": 2430000,
+            "name": "Heater 310 Right",
+            "energy": 39,
+            "energyTime": "2025-01-28 10:34:10"
+          },
+          {
+            "id": 2430008,
+            "name": "Heater 310 Left",
+            "energy": 18,
+            "energyTime": "2025-01-28 10:34:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-01-28 11:38:37",
+    "rooms": [
+      {
+        "id": 1200221,
+        "name": "Meeting room 4th floor",
+        "targetTemperature": 21.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429794,
+            "name": "Meeting room 4th West",
+            "energy": 72,
+            "energyTime": "2025-01-28 10:38:37"
+          },
+          {
+            "id": 2429797,
+            "name": "Meeting room 4th North West",
+            "energy": 49,
+            "energyTime": "2025-01-28 10:38:37"
+          },
+          {
+            "id": 2429799,
+            "name": "Meeting room 4th North",
+            "energy": 11,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      },
+      {
+        "id": 1200228,
+        "name": "Canteen",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.13,
+        "devices": [
+          {
+            "id": 2429803,
+            "name": "Canteen Left",
+            "energy": 16,
+            "energyTime": "2025-01-28 10:38:37"
+          },
+          {
+            "id": 2429806,
+            "name": "Canteen Middle",
+            "energy": 8,
+            "energyTime": "2025-01-28 10:38:37"
+          },
+          {
+            "id": 2429808,
+            "name": "Canteen Right",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      },
+      {
+        "id": 1200231,
+        "name": "Office 409",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2429813,
+            "name": "Heater 409",
+            "energy": 33,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      },
+      {
+        "id": 1200237,
+        "name": "Office 408",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.12,
+        "devices": [
+          {
+            "id": 2429826,
+            "name": "Heater 408",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      },
+      {
+        "id": 1200241,
+        "name": "Office 407",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.69,
+        "devices": [
+          {
+            "id": 2429839,
+            "name": "Heater 407",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      },
+      {
+        "id": 1200242,
+        "name": "Office 406",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.48,
+        "devices": [
+          {
+            "id": 2429842,
+            "name": "Heater 406",
+            "energy": 14,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      },
+      {
+        "id": 1200247,
+        "name": "Office 405",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.48,
+        "devices": [
+          {
+            "id": 2429844,
+            "name": "Heater 405",
+            "energy": 9,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      },
+      {
+        "id": 1200248,
+        "name": "Office 404",
+        "targetTemperature": 23.0,
+        "currentTemperature": 22.56,
+        "devices": [
+          {
+            "id": 2429845,
+            "name": "Heater 404",
+            "energy": 146,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      },
+      {
+        "id": 1200249,
+        "name": "Office Hallway 4th floor",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.98,
+        "devices": []
+      },
+      {
+        "id": 1200250,
+        "name": "Office 401",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429849,
+            "name": "Heater 401",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      },
+      {
+        "id": 1200321,
+        "name": "Office 310",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.3,
+        "devices": [
+          {
+            "id": 2430000,
+            "name": "Heater 310 Right",
+            "energy": 44,
+            "energyTime": "2025-01-28 10:38:37"
+          },
+          {
+            "id": 2430008,
+            "name": "Heater 310 Left",
+            "energy": 20,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-01-28 11:40:07",
+    "rooms": [
+      {
+        "id": 1200221,
+        "name": "Meeting room 4th floor",
+        "targetTemperature": 21.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429794,
+            "name": "Meeting room 4th West",
+            "energy": 72,
+            "energyTime": "2025-01-28 10:38:37"
+          },
+          {
+            "id": 2429797,
+            "name": "Meeting room 4th North West",
+            "energy": 49,
+            "energyTime": "2025-01-28 10:38:37"
+          },
+          {
+            "id": 2429799,
+            "name": "Meeting room 4th North",
+            "energy": 11,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      },
+      {
+        "id": 1200228,
+        "name": "Canteen",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.13,
+        "devices": [
+          {
+            "id": 2429803,
+            "name": "Canteen Left",
+            "energy": 16,
+            "energyTime": "2025-01-28 10:38:37"
+          },
+          {
+            "id": 2429806,
+            "name": "Canteen Middle",
+            "energy": 8,
+            "energyTime": "2025-01-28 10:38:37"
+          },
+          {
+            "id": 2429808,
+            "name": "Canteen Right",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      },
+      {
+        "id": 1200231,
+        "name": "Office 409",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2429813,
+            "name": "Heater 409",
+            "energy": 33,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      },
+      {
+        "id": 1200237,
+        "name": "Office 408",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.12,
+        "devices": [
+          {
+            "id": 2429826,
+            "name": "Heater 408",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      },
+      {
+        "id": 1200241,
+        "name": "Office 407",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.69,
+        "devices": [
+          {
+            "id": 2429839,
+            "name": "Heater 407",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      },
+      {
+        "id": 1200242,
+        "name": "Office 406",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.48,
+        "devices": [
+          {
+            "id": 2429842,
+            "name": "Heater 406",
+            "energy": 14,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      },
+      {
+        "id": 1200247,
+        "name": "Office 405",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.48,
+        "devices": [
+          {
+            "id": 2429844,
+            "name": "Heater 405",
+            "energy": 9,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      },
+      {
+        "id": 1200248,
+        "name": "Office 404",
+        "targetTemperature": 23.0,
+        "currentTemperature": 22.56,
+        "devices": [
+          {
+            "id": 2429845,
+            "name": "Heater 404",
+            "energy": 146,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      },
+      {
+        "id": 1200249,
+        "name": "Office Hallway 4th floor",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.98,
+        "devices": []
+      },
+      {
+        "id": 1200250,
+        "name": "Office 401",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429849,
+            "name": "Heater 401",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      },
+      {
+        "id": 1200321,
+        "name": "Office 310",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.3,
+        "devices": [
+          {
+            "id": 2430000,
+            "name": "Heater 310 Right",
+            "energy": 44,
+            "energyTime": "2025-01-28 10:38:37"
+          },
+          {
+            "id": 2430008,
+            "name": "Heater 310 Left",
+            "energy": 20,
+            "energyTime": "2025-01-28 10:38:37"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-01-28 11:53:46",
+    "rooms": [
+      {
+        "id": 1200221,
+        "name": "Meeting room 4th floor",
+        "targetTemperature": 21.0,
+        "currentTemperature": 21.02,
+        "devices": [
+          {
+            "id": 2429794,
+            "name": "Meeting room 4th West",
+            "energy": 117,
+            "energyTime": "2025-01-28 10:53:46"
+          },
+          {
+            "id": 2429797,
+            "name": "Meeting room 4th North West",
+            "energy": 80,
+            "energyTime": "2025-01-28 10:53:46"
+          },
+          {
+            "id": 2429799,
+            "name": "Meeting room 4th North",
+            "energy": 20,
+            "energyTime": "2025-01-28 10:53:46"
+          }
+        ]
+      },
+      {
+        "id": 1200228,
+        "name": "Canteen",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.82,
+        "devices": [
+          {
+            "id": 2429803,
+            "name": "Canteen Left",
+            "energy": 35,
+            "energyTime": "2025-01-28 10:53:46"
+          },
+          {
+            "id": 2429806,
+            "name": "Canteen Middle",
+            "energy": 8,
+            "energyTime": "2025-01-28 10:53:46"
+          },
+          {
+            "id": 2429808,
+            "name": "Canteen Right",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:53:46"
+          }
+        ]
+      },
+      {
+        "id": 1200231,
+        "name": "Office 409",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.2,
+        "devices": [
+          {
+            "id": 2429813,
+            "name": "Heater 409",
+            "energy": 48,
+            "energyTime": "2025-01-28 10:53:46"
+          }
+        ]
+      },
+      {
+        "id": 1200237,
+        "name": "Office 408",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.12,
+        "devices": [
+          {
+            "id": 2429826,
+            "name": "Heater 408",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:53:46"
+          }
+        ]
+      },
+      {
+        "id": 1200241,
+        "name": "Office 407",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.69,
+        "devices": [
+          {
+            "id": 2429839,
+            "name": "Heater 407",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:53:46"
+          }
+        ]
+      },
+      {
+        "id": 1200242,
+        "name": "Office 406",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2429842,
+            "name": "Heater 406",
+            "energy": 25,
+            "energyTime": "2025-01-28 10:53:46"
+          }
+        ]
+      },
+      {
+        "id": 1200247,
+        "name": "Office 405",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.34,
+        "devices": [
+          {
+            "id": 2429844,
+            "name": "Heater 405",
+            "energy": 14,
+            "energyTime": "2025-01-28 10:53:46"
+          }
+        ]
+      },
+      {
+        "id": 1200248,
+        "name": "Office 404",
+        "targetTemperature": 23.0,
+        "currentTemperature": 22.48,
+        "devices": [
+          {
+            "id": 2429845,
+            "name": "Heater 404",
+            "energy": 215,
+            "energyTime": "2025-01-28 10:53:46"
+          }
+        ]
+      },
+      {
+        "id": 1200249,
+        "name": "Office Hallway 4th floor",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.9,
+        "devices": []
+      },
+      {
+        "id": 1200250,
+        "name": "Office 401",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429849,
+            "name": "Heater 401",
+            "energy": 0,
+            "energyTime": "2025-01-28 10:53:46"
+          }
+        ]
+      },
+      {
+        "id": 1200321,
+        "name": "Office 310",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2430000,
+            "name": "Heater 310 Right",
+            "energy": 65,
+            "energyTime": "2025-01-28 10:53:46"
+          },
+          {
+            "id": 2430008,
+            "name": "Heater 310 Left",
+            "energy": 27,
+            "energyTime": "2025-01-28 10:53:46"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-01-28 12:01:38",
+    "rooms": [
+      {
+        "id": 1200221,
+        "name": "Meeting room 4th floor",
+        "targetTemperature": 21.0,
+        "currentTemperature": 21.12,
+        "devices": [
+          {
+            "id": 2429794,
+            "name": "Meeting room 4th West",
+            "energy": 143,
+            "energyTime": "2025-01-28 11:01:38"
+          },
+          {
+            "id": 2429797,
+            "name": "Meeting room 4th North West",
+            "energy": 98,
+            "energyTime": "2025-01-28 11:01:38"
+          },
+          {
+            "id": 2429799,
+            "name": "Meeting room 4th North",
+            "energy": 30,
+            "energyTime": "2025-01-28 11:01:38"
+          }
+        ]
+      },
+      {
+        "id": 1200228,
+        "name": "Canteen",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.01,
+        "devices": [
+          {
+            "id": 2429803,
+            "name": "Canteen Left",
+            "energy": 43,
+            "energyTime": "2025-01-28 11:01:38"
+          },
+          {
+            "id": 2429806,
+            "name": "Canteen Middle",
+            "energy": 8,
+            "energyTime": "2025-01-28 11:01:38"
+          },
+          {
+            "id": 2429808,
+            "name": "Canteen Right",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:01:38"
+          }
+        ]
+      },
+      {
+        "id": 1200231,
+        "name": "Office 409",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.2,
+        "devices": [
+          {
+            "id": 2429813,
+            "name": "Heater 409",
+            "energy": 59,
+            "energyTime": "2025-01-28 11:01:38"
+          }
+        ]
+      },
+      {
+        "id": 1200237,
+        "name": "Office 408",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.05,
+        "devices": [
+          {
+            "id": 2429826,
+            "name": "Heater 408",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:01:38"
+          }
+        ]
+      },
+      {
+        "id": 1200241,
+        "name": "Office 407",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.69,
+        "devices": [
+          {
+            "id": 2429839,
+            "name": "Heater 407",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:01:38"
+          }
+        ]
+      },
+      {
+        "id": 1200242,
+        "name": "Office 406",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.34,
+        "devices": [
+          {
+            "id": 2429842,
+            "name": "Heater 406",
+            "energy": 32,
+            "energyTime": "2025-01-28 11:01:38"
+          }
+        ]
+      },
+      {
+        "id": 1200247,
+        "name": "Office 405",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.34,
+        "devices": [
+          {
+            "id": 2429844,
+            "name": "Heater 405",
+            "energy": 20,
+            "energyTime": "2025-01-28 11:01:38"
+          }
+        ]
+      },
+      {
+        "id": 1200248,
+        "name": "Office 404",
+        "targetTemperature": 23.0,
+        "currentTemperature": 22.56,
+        "devices": [
+          {
+            "id": 2429845,
+            "name": "Heater 404",
+            "energy": 254,
+            "energyTime": "2025-01-28 11:01:38"
+          }
+        ]
+      },
+      {
+        "id": 1200249,
+        "name": "Office Hallway 4th floor",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.83,
+        "devices": []
+      },
+      {
+        "id": 1200250,
+        "name": "Office 401",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429849,
+            "name": "Heater 401",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:01:38"
+          }
+        ]
+      },
+      {
+        "id": 1200321,
+        "name": "Office 310",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2430000,
+            "name": "Heater 310 Right",
+            "energy": 78,
+            "energyTime": "2025-01-28 11:01:38"
+          },
+          {
+            "id": 2430008,
+            "name": "Heater 310 Left",
+            "energy": 32,
+            "energyTime": "2025-01-28 11:01:38"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-01-28 12:05:02",
+    "rooms": [
+      {
+        "id": 1200221,
+        "name": "Meeting room 4th floor",
+        "targetTemperature": 21.0,
+        "currentTemperature": 21.22,
+        "devices": [
+          {
+            "id": 2429794,
+            "name": "Meeting room 4th West",
+            "energy": 153,
+            "energyTime": "2025-01-28 11:05:02"
+          },
+          {
+            "id": 2429797,
+            "name": "Meeting room 4th North West",
+            "energy": 101,
+            "energyTime": "2025-01-28 11:05:02"
+          },
+          {
+            "id": 2429799,
+            "name": "Meeting room 4th North",
+            "energy": 31,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      },
+      {
+        "id": 1200228,
+        "name": "Canteen",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.06,
+        "devices": [
+          {
+            "id": 2429803,
+            "name": "Canteen Left",
+            "energy": 43,
+            "energyTime": "2025-01-28 11:05:02"
+          },
+          {
+            "id": 2429806,
+            "name": "Canteen Middle",
+            "energy": 8,
+            "energyTime": "2025-01-28 11:05:02"
+          },
+          {
+            "id": 2429808,
+            "name": "Canteen Right",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      },
+      {
+        "id": 1200231,
+        "name": "Office 409",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2429813,
+            "name": "Heater 409",
+            "energy": 63,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      },
+      {
+        "id": 1200237,
+        "name": "Office 408",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.12,
+        "devices": [
+          {
+            "id": 2429826,
+            "name": "Heater 408",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      },
+      {
+        "id": 1200241,
+        "name": "Office 407",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.69,
+        "devices": [
+          {
+            "id": 2429839,
+            "name": "Heater 407",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      },
+      {
+        "id": 1200242,
+        "name": "Office 406",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.41,
+        "devices": [
+          {
+            "id": 2429842,
+            "name": "Heater 406",
+            "energy": 33,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      },
+      {
+        "id": 1200247,
+        "name": "Office 405",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.41,
+        "devices": [
+          {
+            "id": 2429844,
+            "name": "Heater 405",
+            "energy": 22,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      },
+      {
+        "id": 1200248,
+        "name": "Office 404",
+        "targetTemperature": 23.0,
+        "currentTemperature": 22.56,
+        "devices": [
+          {
+            "id": 2429845,
+            "name": "Heater 404",
+            "energy": 273,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      },
+      {
+        "id": 1200249,
+        "name": "Office Hallway 4th floor",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.9,
+        "devices": []
+      },
+      {
+        "id": 1200250,
+        "name": "Office 401",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429849,
+            "name": "Heater 401",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      },
+      {
+        "id": 1200321,
+        "name": "Office 310",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2430000,
+            "name": "Heater 310 Right",
+            "energy": 81,
+            "energyTime": "2025-01-28 11:05:02"
+          },
+          {
+            "id": 2430008,
+            "name": "Heater 310 Left",
+            "energy": 35,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-01-28 12:06:11",
+    "rooms": [
+      {
+        "id": 1200221,
+        "name": "Meeting room 4th floor",
+        "targetTemperature": 21.0,
+        "currentTemperature": 21.22,
+        "devices": [
+          {
+            "id": 2429794,
+            "name": "Meeting room 4th West",
+            "energy": 153,
+            "energyTime": "2025-01-28 11:05:02"
+          },
+          {
+            "id": 2429797,
+            "name": "Meeting room 4th North West",
+            "energy": 101,
+            "energyTime": "2025-01-28 11:05:02"
+          },
+          {
+            "id": 2429799,
+            "name": "Meeting room 4th North",
+            "energy": 31,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      },
+      {
+        "id": 1200228,
+        "name": "Canteen",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.06,
+        "devices": [
+          {
+            "id": 2429803,
+            "name": "Canteen Left",
+            "energy": 43,
+            "energyTime": "2025-01-28 11:05:02"
+          },
+          {
+            "id": 2429806,
+            "name": "Canteen Middle",
+            "energy": 8,
+            "energyTime": "2025-01-28 11:05:02"
+          },
+          {
+            "id": 2429808,
+            "name": "Canteen Right",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      },
+      {
+        "id": 1200231,
+        "name": "Office 409",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2429813,
+            "name": "Heater 409",
+            "energy": 63,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      },
+      {
+        "id": 1200237,
+        "name": "Office 408",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.12,
+        "devices": [
+          {
+            "id": 2429826,
+            "name": "Heater 408",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      },
+      {
+        "id": 1200241,
+        "name": "Office 407",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.69,
+        "devices": [
+          {
+            "id": 2429839,
+            "name": "Heater 407",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      },
+      {
+        "id": 1200242,
+        "name": "Office 406",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.41,
+        "devices": [
+          {
+            "id": 2429842,
+            "name": "Heater 406",
+            "energy": 33,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      },
+      {
+        "id": 1200247,
+        "name": "Office 405",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.41,
+        "devices": [
+          {
+            "id": 2429844,
+            "name": "Heater 405",
+            "energy": 22,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      },
+      {
+        "id": 1200248,
+        "name": "Office 404",
+        "targetTemperature": 23.0,
+        "currentTemperature": 22.56,
+        "devices": [
+          {
+            "id": 2429845,
+            "name": "Heater 404",
+            "energy": 273,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      },
+      {
+        "id": 1200249,
+        "name": "Office Hallway 4th floor",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.9,
+        "devices": []
+      },
+      {
+        "id": 1200250,
+        "name": "Office 401",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429849,
+            "name": "Heater 401",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      },
+      {
+        "id": 1200321,
+        "name": "Office 310",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2430000,
+            "name": "Heater 310 Right",
+            "energy": 81,
+            "energyTime": "2025-01-28 11:05:02"
+          },
+          {
+            "id": 2430008,
+            "name": "Heater 310 Left",
+            "energy": 35,
+            "energyTime": "2025-01-28 11:05:02"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-01-28 12:10:02",
+    "rooms": [
+      {
+        "id": 1200221,
+        "name": "Meeting room 4th floor",
+        "targetTemperature": 21.0,
+        "currentTemperature": 21.29,
+        "devices": [
+          {
+            "id": 2429794,
+            "name": "Meeting room 4th West",
+            "energy": 161,
+            "energyTime": "2025-01-28 11:10:02"
+          },
+          {
+            "id": 2429797,
+            "name": "Meeting room 4th North West",
+            "energy": 107,
+            "energyTime": "2025-01-28 11:10:02"
+          },
+          {
+            "id": 2429799,
+            "name": "Meeting room 4th North",
+            "energy": 31,
+            "energyTime": "2025-01-28 11:10:02"
+          }
+        ]
+      },
+      {
+        "id": 1200228,
+        "name": "Canteen",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.13,
+        "devices": [
+          {
+            "id": 2429803,
+            "name": "Canteen Left",
+            "energy": 43,
+            "energyTime": "2025-01-28 11:10:02"
+          },
+          {
+            "id": 2429806,
+            "name": "Canteen Middle",
+            "energy": 8,
+            "energyTime": "2025-01-28 11:10:02"
+          },
+          {
+            "id": 2429808,
+            "name": "Canteen Right",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:10:02"
+          }
+        ]
+      },
+      {
+        "id": 1200231,
+        "name": "Office 409",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.34,
+        "devices": [
+          {
+            "id": 2429813,
+            "name": "Heater 409",
+            "energy": 68,
+            "energyTime": "2025-01-28 11:10:02"
+          }
+        ]
+      },
+      {
+        "id": 1200237,
+        "name": "Office 408",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429826,
+            "name": "Heater 408",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:10:02"
+          }
+        ]
+      },
+      {
+        "id": 1200241,
+        "name": "Office 407",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.69,
+        "devices": [
+          {
+            "id": 2429839,
+            "name": "Heater 407",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:10:02"
+          }
+        ]
+      },
+      {
+        "id": 1200242,
+        "name": "Office 406",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.48,
+        "devices": [
+          {
+            "id": 2429842,
+            "name": "Heater 406",
+            "energy": 35,
+            "energyTime": "2025-01-28 11:10:02"
+          }
+        ]
+      },
+      {
+        "id": 1200247,
+        "name": "Office 405",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.48,
+        "devices": [
+          {
+            "id": 2429844,
+            "name": "Heater 405",
+            "energy": 22,
+            "energyTime": "2025-01-28 11:10:02"
+          }
+        ]
+      },
+      {
+        "id": 1200248,
+        "name": "Office 404",
+        "targetTemperature": 23.0,
+        "currentTemperature": 22.56,
+        "devices": [
+          {
+            "id": 2429845,
+            "name": "Heater 404",
+            "energy": 301,
+            "energyTime": "2025-01-28 11:10:02"
+          }
+        ]
+      },
+      {
+        "id": 1200249,
+        "name": "Office Hallway 4th floor",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.98,
+        "devices": []
+      },
+      {
+        "id": 1200250,
+        "name": "Office 401",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429849,
+            "name": "Heater 401",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:10:02"
+          }
+        ]
+      },
+      {
+        "id": 1200321,
+        "name": "Office 310",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.3,
+        "devices": [
+          {
+            "id": 2430000,
+            "name": "Heater 310 Right",
+            "energy": 91,
+            "energyTime": "2025-01-28 11:10:02"
+          },
+          {
+            "id": 2430008,
+            "name": "Heater 310 Left",
+            "energy": 37,
+            "energyTime": "2025-01-28 11:10:02"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-01-28 12:15:02",
+    "rooms": [
+      {
+        "id": 1200221,
+        "name": "Meeting room 4th floor",
+        "targetTemperature": 21.0,
+        "currentTemperature": 21.22,
+        "devices": [
+          {
+            "id": 2429794,
+            "name": "Meeting room 4th West",
+            "energy": 12,
+            "energyTime": "2025-01-28 11:15:02"
+          },
+          {
+            "id": 2429797,
+            "name": "Meeting room 4th North West",
+            "energy": 6,
+            "energyTime": "2025-01-28 11:15:02"
+          },
+          {
+            "id": 2429799,
+            "name": "Meeting room 4th North",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:15:02"
+          }
+        ]
+      },
+      {
+        "id": 1200228,
+        "name": "Canteen",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.13,
+        "devices": [
+          {
+            "id": 2429803,
+            "name": "Canteen Left",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:15:02"
+          },
+          {
+            "id": 2429806,
+            "name": "Canteen Middle",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:15:02"
+          },
+          {
+            "id": 2429808,
+            "name": "Canteen Right",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:15:02"
+          }
+        ]
+      },
+      {
+        "id": 1200231,
+        "name": "Office 409",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2429813,
+            "name": "Heater 409",
+            "energy": 4,
+            "energyTime": "2025-01-28 11:15:02"
+          }
+        ]
+      },
+      {
+        "id": 1200237,
+        "name": "Office 408",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.27,
+        "devices": [
+          {
+            "id": 2429826,
+            "name": "Heater 408",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:15:02"
+          }
+        ]
+      },
+      {
+        "id": 1200241,
+        "name": "Office 407",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.69,
+        "devices": [
+          {
+            "id": 2429839,
+            "name": "Heater 407",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:15:02"
+          }
+        ]
+      },
+      {
+        "id": 1200242,
+        "name": "Office 406",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.41,
+        "devices": [
+          {
+            "id": 2429842,
+            "name": "Heater 406",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:15:02"
+          }
+        ]
+      },
+      {
+        "id": 1200247,
+        "name": "Office 405",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.48,
+        "devices": [
+          {
+            "id": 2429844,
+            "name": "Heater 405",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:15:02"
+          }
+        ]
+      },
+      {
+        "id": 1200248,
+        "name": "Office 404",
+        "targetTemperature": 23.0,
+        "currentTemperature": 22.56,
+        "devices": [
+          {
+            "id": 2429845,
+            "name": "Heater 404",
+            "energy": 18,
+            "energyTime": "2025-01-28 11:15:02"
+          }
+        ]
+      },
+      {
+        "id": 1200249,
+        "name": "Office Hallway 4th floor",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.98,
+        "devices": []
+      },
+      {
+        "id": 1200250,
+        "name": "Office 401",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429849,
+            "name": "Heater 401",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:15:02"
+          }
+        ]
+      },
+      {
+        "id": 1200321,
+        "name": "Office 310",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.3,
+        "devices": [
+          {
+            "id": 2430000,
+            "name": "Heater 310 Right",
+            "energy": 5,
+            "energyTime": "2025-01-28 11:15:02"
+          },
+          {
+            "id": 2430008,
+            "name": "Heater 310 Left",
+            "energy": 2,
+            "energyTime": "2025-01-28 11:15:02"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-01-28 12:20:03",
+    "rooms": [
+      {
+        "id": 1200221,
+        "name": "Meeting room 4th floor",
+        "targetTemperature": 21.0,
+        "currentTemperature": 21.12,
+        "devices": [
+          {
+            "id": 2429794,
+            "name": "Meeting room 4th West",
+            "energy": 23,
+            "energyTime": "2025-01-28 11:20:02"
+          },
+          {
+            "id": 2429797,
+            "name": "Meeting room 4th North West",
+            "energy": 12,
+            "energyTime": "2025-01-28 11:20:02"
+          },
+          {
+            "id": 2429799,
+            "name": "Meeting room 4th North",
+            "energy": 1,
+            "energyTime": "2025-01-28 11:20:02"
+          }
+        ]
+      },
+      {
+        "id": 1200228,
+        "name": "Canteen",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.06,
+        "devices": [
+          {
+            "id": 2429803,
+            "name": "Canteen Left",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:20:02"
+          },
+          {
+            "id": 2429806,
+            "name": "Canteen Middle",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:20:02"
+          },
+          {
+            "id": 2429808,
+            "name": "Canteen Right",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:20:02"
+          }
+        ]
+      },
+      {
+        "id": 1200231,
+        "name": "Office 409",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2429813,
+            "name": "Heater 409",
+            "energy": 8,
+            "energyTime": "2025-01-28 11:20:02"
+          }
+        ]
+      },
+      {
+        "id": 1200237,
+        "name": "Office 408",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.2,
+        "devices": [
+          {
+            "id": 2429826,
+            "name": "Heater 408",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:20:02"
+          }
+        ]
+      },
+      {
+        "id": 1200241,
+        "name": "Office 407",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.69,
+        "devices": [
+          {
+            "id": 2429839,
+            "name": "Heater 407",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:20:02"
+          }
+        ]
+      },
+      {
+        "id": 1200242,
+        "name": "Office 406",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2429842,
+            "name": "Heater 406",
+            "energy": 5,
+            "energyTime": "2025-01-28 11:20:02"
+          }
+        ]
+      },
+      {
+        "id": 1200247,
+        "name": "Office 405",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.41,
+        "devices": [
+          {
+            "id": 2429844,
+            "name": "Heater 405",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:20:02"
+          }
+        ]
+      },
+      {
+        "id": 1200248,
+        "name": "Office 404",
+        "targetTemperature": 23.0,
+        "currentTemperature": 22.56,
+        "devices": [
+          {
+            "id": 2429845,
+            "name": "Heater 404",
+            "energy": 45,
+            "energyTime": "2025-01-28 11:20:02"
+          }
+        ]
+      },
+      {
+        "id": 1200249,
+        "name": "Office Hallway 4th floor",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.9,
+        "devices": []
+      },
+      {
+        "id": 1200250,
+        "name": "Office 401",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.27,
+        "devices": [
+          {
+            "id": 2429849,
+            "name": "Heater 401",
+            "energy": 0,
+            "energyTime": "2025-01-28 11:20:02"
+          }
+        ]
+      },
+      {
+        "id": 1200321,
+        "name": "Office 310",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.3,
+        "devices": [
+          {
+            "id": 2430000,
+            "name": "Heater 310 Right",
+            "energy": 14,
+            "energyTime": "2025-01-28 11:20:02"
+          },
+          {
+            "id": 2430008,
+            "name": "Heater 310 Left",
+            "energy": 4,
+            "energyTime": "2025-01-28 11:20:02"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-01-28 12:25:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 12:30:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 12:35:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 12:40:03",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 12:45:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 12:50:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 12:55:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 13:00:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 13:05:03",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 13:15:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 13:28:25",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 13:30:02",
+    "rooms": [
+      {
+        "id": 1200221,
+        "name": "Meeting room 4th floor",
+        "targetTemperature": 21.0,
+        "currentTemperature": 21.02,
+        "devices": [
+          {
+            "id": 2429794,
+            "name": "Meeting room 4th West",
+            "energy": 48,
+            "energyTime": "2025-01-28 12:28:08"
+          },
+          {
+            "id": 2429797,
+            "name": "Meeting room 4th North West",
+            "energy": 24,
+            "energyTime": "2025-01-28 12:28:08"
+          },
+          {
+            "id": 2429799,
+            "name": "Meeting room 4th North",
+            "energy": 12,
+            "energyTime": "2025-01-28 12:28:08"
+          }
+        ]
+      },
+      {
+        "id": 1200228,
+        "name": "Canteen",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.99,
+        "devices": [
+          {
+            "id": 2429803,
+            "name": "Canteen Left",
+            "energy": 13,
+            "energyTime": "2025-01-28 12:28:08"
+          },
+          {
+            "id": 2429806,
+            "name": "Canteen Middle",
+            "energy": 0,
+            "energyTime": "2025-01-28 12:28:08"
+          },
+          {
+            "id": 2429808,
+            "name": "Canteen Right",
+            "energy": 0,
+            "energyTime": "2025-01-28 12:28:08"
+          }
+        ]
+      },
+      {
+        "id": 1200231,
+        "name": "Office 409",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.2,
+        "devices": [
+          {
+            "id": 2429813,
+            "name": "Heater 409",
+            "energy": 19,
+            "energyTime": "2025-01-28 12:28:08"
+          }
+        ]
+      },
+      {
+        "id": 1200237,
+        "name": "Office 408",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.27,
+        "devices": [
+          {
+            "id": 2429826,
+            "name": "Heater 408",
+            "energy": 0,
+            "energyTime": "2025-01-28 12:28:08"
+          }
+        ]
+      },
+      {
+        "id": 1200241,
+        "name": "Office 407",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.83,
+        "devices": [
+          {
+            "id": 2429839,
+            "name": "Heater 407",
+            "energy": 0,
+            "energyTime": "2025-01-28 12:28:08"
+          }
+        ]
+      },
+      {
+        "id": 1200242,
+        "name": "Office 406",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.27,
+        "devices": [
+          {
+            "id": 2429842,
+            "name": "Heater 406",
+            "energy": 11,
+            "energyTime": "2025-01-28 12:28:08"
+          }
+        ]
+      },
+      {
+        "id": 1200247,
+        "name": "Office 405",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.41,
+        "devices": [
+          {
+            "id": 2429844,
+            "name": "Heater 405",
+            "energy": 5,
+            "energyTime": "2025-01-28 12:28:08"
+          }
+        ]
+      },
+      {
+        "id": 1200248,
+        "name": "Office 404",
+        "targetTemperature": 23.0,
+        "currentTemperature": 22.33,
+        "devices": [
+          {
+            "id": 2429845,
+            "name": "Heater 404",
+            "energy": 90,
+            "energyTime": "2025-01-28 12:28:08"
+          }
+        ]
+      },
+      {
+        "id": 1200249,
+        "name": "Office Hallway 4th floor",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.98,
+        "devices": []
+      },
+      {
+        "id": 1200250,
+        "name": "Office 401",
+        "targetTemperature": 20.0,
+        "currentTemperature": 21.27,
+        "devices": [
+          {
+            "id": 2429849,
+            "name": "Heater 401",
+            "energy": 0,
+            "energyTime": "2025-01-28 12:28:08"
+          }
+        ]
+      },
+      {
+        "id": 1200321,
+        "name": "Office 310",
+        "targetTemperature": 20.0,
+        "currentTemperature": 20.34,
+        "devices": [
+          {
+            "id": 2430000,
+            "name": "Heater 310 Right",
+            "energy": 23,
+            "energyTime": "2025-01-28 12:28:08"
+          },
+          {
+            "id": 2430008,
+            "name": "Heater 310 Left",
+            "energy": 7,
+            "energyTime": "2025-01-28 12:28:08"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-01-28 13:45:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 13:55:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 14:00:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 14:05:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 14:10:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 14:15:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 14:20:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 14:25:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 14:30:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 14:35:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 14:40:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 14:45:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 14:50:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 14:55:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 15:00:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 15:05:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 15:10:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 15:15:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 15:20:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 15:25:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 15:30:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 15:35:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 15:40:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 15:45:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 15:50:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 15:55:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 16:00:03",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 16:05:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 16:10:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 16:15:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 16:20:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 16:25:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 16:30:03",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 16:35:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 16:40:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 16:45:03",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 16:50:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 16:55:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 17:00:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 17:05:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 17:10:03",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 17:15:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 17:20:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 17:25:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 17:30:03",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 17:35:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 17:40:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 17:45:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 17:50:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 17:55:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 18:00:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 18:05:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 18:10:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 18:15:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 18:20:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 18:25:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 18:30:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 18:35:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 18:40:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 18:45:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 18:50:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 18:55:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 19:00:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 19:05:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 19:10:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 19:15:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 19:20:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 19:25:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 19:30:03",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 19:35:03",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 19:40:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 19:45:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 19:50:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 19:55:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 20:00:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 20:05:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 20:10:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 20:15:03",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 20:20:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 20:25:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 20:30:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 20:35:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 20:40:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 20:45:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 20:50:03",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 20:55:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 21:00:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 21:05:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 21:10:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 21:15:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 21:20:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 21:25:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 21:30:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 21:35:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 21:40:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 21:45:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 21:50:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 21:55:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 22:00:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 22:05:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 22:10:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 22:15:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 22:20:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 22:25:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 22:30:03",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 22:35:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 22:40:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 22:45:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 22:50:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 22:55:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 23:00:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 23:05:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 23:10:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 23:15:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 23:20:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 23:25:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 23:30:03",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 23:35:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 23:40:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 23:45:02",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 23:50:03",
+    "rooms": []
+  },
+  {
+    "timestamp": "2025-01-28 23:55:02",
+    "rooms": []
+  }
+]
